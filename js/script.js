@@ -13,6 +13,6 @@ function drawTree (n) {
 }
 
 drawTree(prompt("Jak duża ma być choinka? Wpisz liczbę całkowitą"));
-console.log(drawTree());
+
 
 
